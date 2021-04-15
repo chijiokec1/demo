@@ -1,0 +1,5 @@
+#ignore application.log file
+#application.log
+#ignore all .log files
+
+*.log
